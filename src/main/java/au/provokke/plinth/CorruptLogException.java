@@ -7,3 +7,4 @@ public final class CorruptLogException extends IOException {
         super(message);
     }
 }
+
