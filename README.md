@@ -79,4 +79,3 @@ Needs JDK 21. The only dependency is JUnit 5, and only for tests.
 ## Licence
 
 MIT.
-
